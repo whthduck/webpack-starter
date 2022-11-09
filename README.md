@@ -1,6 +1,6 @@
-# ts-starter
+# webpack-starter
 
-Repo typescript starter
+Repo webpack starter
 
 ## Installation
 
